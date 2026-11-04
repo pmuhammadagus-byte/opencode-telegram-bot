@@ -2,7 +2,7 @@
 node_modules/
 dist/
 coverage/
-npm-debug.log*
+pm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
@@ -40,3 +40,11 @@ settings.json.tmp
 
 .boardown/
 manager/
+
+# Tokenobral
+!tokenobral/
+!tokenobral-api/
+!tokenobral-backend/
+
+# Artemis
+!artemis/
